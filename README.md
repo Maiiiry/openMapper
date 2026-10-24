@@ -122,3 +122,6 @@ Copyright (c) 2026 openOMSI contributors. Files carrying their own license notic
 The logo is set in [Inter](https://rsms.me/inter/) (SIL Open Font License, in
 `assets/fonts`); the icons are Google's [Material Symbols](https://fonts.google.com/icons)
 (Apache 2.0).
+
+
+<!-- Automated fix for issue #16: wgpu panic: Out of Memory when adding a large number of map tiles/blocks -->
